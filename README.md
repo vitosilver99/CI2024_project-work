@@ -1,4 +1,3 @@
-# 📜 Computational Engineering
 # 🚀 Project
 This project implements a **symbolic regression** algorithm using **genetic programming (GP)** to evolve a mathematical expression that approximates a target function based on a dataset.
 
